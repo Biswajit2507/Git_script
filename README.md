@@ -1,2 +1,2 @@
 # Git_script
-first_script
+echo "hello world"
